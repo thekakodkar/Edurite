@@ -1,0 +1,7 @@
+pyyaml
+requests
+python-dotenv
+openai  # For LLM integration
+pypdf   # For PDF processing
+youtube-transcript-api  # For YouTube transcripts
+beautifulsoup4         # For web scraping

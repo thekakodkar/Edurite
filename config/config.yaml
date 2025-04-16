@@ -1,0 +1,28 @@
+agent:
+  name: "Erudite"
+  version: "1.0.0"
+
+document_sources:
+  sources:
+    - type: "folder"
+      path: "./documents"
+      extensions: ["pdf", "txt", "md"]
+    - type: "website"
+      path: "https://example.com/documentation"
+    - type: "youtube"
+      path: "https://www.youtube.com/watch?v=your_video_id"
+
+knowledge_base:
+  storage_type: "memory"
+
+connections:
+  list:
+    openai:
+      type: "api"
+      api_key_env: "OPENAI_API_KEY"
+      endpoint: "https://api.openai.com/v1"
+
+query_processing:
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 1000
