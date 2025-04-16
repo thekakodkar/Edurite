@@ -163,6 +163,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 🙏 Acknowledgements
 
-- OpenAI for the LLM API
-- ReAct pattern from Princeton/Google researchers
+- OpenAI for the LLM API https://platform.openai.com/docs/api-reference
+- ReAct pattern from Princeton/Google researchers https://arxiv.org/pdf/2210.03629
 - All open-source libraries used in this project
