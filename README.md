@@ -62,7 +62,7 @@ python run.py
 ## 🧩 Project Structure
 
 ```
-my_ai_agent/
+Edurite/
 ├── config/                 # Configuration files
 │   └── config.yaml         # Main configuration
 ├── my_agent/               # Agent implementation
