@@ -1,4 +1,5 @@
 # Edurite - The ReAct AI Agent Framework
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A modular framework for building AI agents that can read documents from various sources, reason about their contents, and act upon queries based on that information.
 
